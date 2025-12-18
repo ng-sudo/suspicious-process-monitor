@@ -2,14 +2,14 @@
 
 <div align="center">
 
-[![GitHub License](https://img.shields.io/github/license/chamarthinagendravarma-spec/suspicious-process-monitor?style=flat-square)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/chamarthinagendravarma-spec/suspicious-process-monitor?style=flat-square)](https://github.com/chamarthinagendravarma-spec/suspicious-process-monitor/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/chamarthinagendravarma-spec/suspicious-process-monitor?style=flat-square)](https://github.com/chamarthinagendravarma-spec/suspicious-process-monitor/issues)
-[![GitHub Forks](https://img.shields.io/github/forks/chamarthinagendravarma-spec/suspicious-process-monitor?style=flat-square)](https://github.com/chamarthinagendravarma-spec/suspicious-process-monitor/network/members)
+[![GitHub License](https://img.shields.io/github/license/ng-sudo/suspicious-process-monitor?style=flat-square)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/ng-sudo/suspicious-process-monitor?style=flat-square)](https://github.com/ng-sudo/suspicious-process-monitor/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/ng-sudo/suspicious-process-monitor?style=flat-square)](https://github.com/ng-sudo/suspicious-process-monitor/issues)
+[![GitHub Forks](https://img.shields.io/github/forks/ng-sudo/suspicious-process-monitor?style=flat-square)](https://github.com/ng-sudo/suspicious-process-monitor/network/members)
 
 A powerful and intelligent system monitoring tool designed to detect and alert on suspicious process activities in real-time.
 
-[Features](#features) • [Installation](#installation) • [Usage](#usage) • [Configuration](#configuration) • [Contributing](#contributing)
+[Features](#Features) • [Installation](#installation) • [Usage](#Basic_usage) • [Configuration](#configuration) • [Contributing](#contributing)
 
 </div>
 
@@ -147,16 +147,6 @@ actions:
   - log
 ```
 
-### Integration
-
-Integrate with external systems via webhooks:
-
-```bash
-# Configure webhook endpoint
-webhook_url: https://your-api.example.com/alerts
-webhook_auth: token_xyz123
-```
-
 ## 🧪 Testing
 
 Run the test suite:
@@ -217,17 +207,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues & Bugs**: [GitHub Issues](https://github.com/ng-sudo/suspicious-process-monitor/issues)
 - **Email**: [Create an issue for support](https://github.com/ng-sudo/suspicious-process-monitor/issues/new)
-
-## 📈 Roadmap
-
-- [ ] Web UI improvements
-- [ ] Machine learning-based detection
-- [ ] Kubernetes integration
-- [ ] Distributed monitoring
-- [ ] Advanced analytics dashboard
-- [ ] Mobile app notifications
-
----
 
 <div align="center">
 
