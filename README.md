@@ -42,7 +42,7 @@ Suspicious Process Monitor is a comprehensive security monitoring solution that 
 
 ```bash
 # Clone the repository
-git clone https://github.com/chamarthinagendravarma-spec/suspicious-process-monitor.git
+git clone https://github.com/ng-sudo/suspicious-process-monitor.git
 
 # Navigate to the directory
 cd suspicious-process-monitor
@@ -204,19 +204,6 @@ Contributions are welcome! Please follow these steps:
 4. **Push** to the branch (`git push origin feature/amazing-feature`)
 5. **Open** a Pull Request
 
-For detailed contribution guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md)
-
-### Code Style
-
-This project follows PEP 8 standards. Please ensure your code is properly formatted:
-
-```bash
-# Format code with black
-black src/
-
-# Lint with pylint
-pylint src/
-```
 
 ## 📄 License
 
@@ -224,19 +211,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Chamartinagendrvarma** - *Initial work* - [GitHub Profile](https://github.com/chamarthinagendravarma-spec)
-
-## 🙏 Acknowledgments
-
-- Thanks to all contributors
-- Special thanks to the security community for feedback and suggestions
-- Inspired by industry-leading monitoring solutions
+- **Nagendra Varma** - *Initial work* - [GitHub Profile](https://github.com/ng-sudo)
 
 ## 📞 Support
 
-- **Issues & Bugs**: [GitHub Issues](https://github.com/chamarthinagendravarma-spec/suspicious-process-monitor/issues)
-- **Documentation**: [DOCS.md](DOCS.md)
-- **Email**: [Create an issue for support](https://github.com/chamarthinagendravarma-spec/suspicious-process-monitor/issues/new)
+- **Issues & Bugs**: [GitHub Issues](https://github.com/ng-sudo/suspicious-process-monitor/issues)
+- **Email**: [Create an issue for support](https://github.com/ng-sudo/suspicious-process-monitor/issues/new)
 
 ## 📈 Roadmap
 
